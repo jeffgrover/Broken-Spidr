@@ -1,0 +1,4 @@
+Looks for broken links, uses "gem install spidr":
+
+USAGE:  ruby spider.rb > spider.txt
+
